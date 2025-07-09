@@ -398,10 +398,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-presented-our-work-consensus-based-optimization-accelerates-gradient-descent-at-the-neurips-optimization-for-ml-workshop",
-          title: 'I presented our work “Consensus Based Optimization Accelerates Gradient Descent” at the NeurIPS...',
+            },},{id: "news-a-simple-inline-announcement",
+          title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "news-i-graduated-from-caltech-very-excited-for-the-journey-ahead",
+          section: "News",},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-i-graduated-from-caltech-very-excited-for-the-journey-ahead",
           title: 'I graduated from Caltech! Very excited for the journey ahead.',
           description: "",
           section: "News",},{id: "projects-project-1",
