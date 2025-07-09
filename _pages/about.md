@@ -38,8 +38,6 @@ Follow me!
 <a href="https://www.linkedin.com/in/anaghasatish548" target="_blank" title="LinkedIn">
 <i class="fab fa-linkedin fa-2x"></i>
 </a>
-
-Check out what I'm reading!
 <a href="https://www.goodreads.com/57630921-anagha" target="_blank" title="Goodreads">
 <i class="fab fa-goodreads fa-2x"></i>
 </a>
