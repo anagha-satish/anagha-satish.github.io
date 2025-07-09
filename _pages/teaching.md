@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: I have enjoyed opportunities to teach students and assist with course development.
+description:
 nav: true
 nav_order: 5
 ---
