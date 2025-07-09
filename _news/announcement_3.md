@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I graduated from Caltech! Very excited for the journey ahead.
+I graduated from Caltech with a Bachelors in Computer Science and Minor in Information and Data Science!
