@@ -398,16 +398,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-work-finding-common-ground-a-two-opinion-approach-to-reducing-polarization-in-networks-won-the-2nd-best-paper-award-at-mit-urtc",
+          title: 'Our work, “Finding Common Ground: A Two-Opinion Approach to Reducing Polarization in Networks”...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-presented-our-work-quot-consensus-based-optimization-accelerates-gradient-descent-quot-at-neurips-optml",
+          title: 'I presented our work &amp;quot;Consensus Based Optimization Accelerates Gradient Descent&amp;quot; at NeurIPS OptML!...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-graduated-from-caltech-very-excited-for-the-journey-ahead",
-          title: 'I graduated from Caltech! Very excited for the journey ahead.',
+            },},{id: "news-i-graduated-from-caltech-with-a-bachelors-in-computer-science-and-minor-in-information-and-data-science",
+          title: 'I graduated from Caltech with a Bachelors in Computer Science and Minor in...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
