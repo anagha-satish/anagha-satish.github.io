@@ -30,3 +30,16 @@ latest_posts:
 I am a first-year PhD student in Computer Science, where I am fortunate to be advised by Professor [Milind Tambe](https://teamcore.seas.harvard.edu/tambe/).
 
 Previously, I studied at Caltech, where I obtained my bachelor's degree in Computer Science with a minor in Information and Data Science. At Caltech, I was fortunate to work on projects with Prof. [Adam Wierman](https://adamwierman.com/) and Prof. [Franca Hoffmann](https://francahoffmann.com/). I also spent a wonderful summer at NASA JPL's [Machine Learning and Instrument Autonomy group](https://ml.jpl.nasa.gov/).
+
+Follow me!
+<a href="https://github.com/anagha-satish" target="_blank" title="GitHub">
+<i class="fab fa-github fa-2x"></i>
+</a>
+<a href="https://www.linkedin.com/in/anaghasatish548" target="_blank" title="LinkedIn">
+<i class="fab fa-linkedin fa-2x"></i>
+</a>
+
+Check out what I'm reading!
+<a href="https://www.goodreads.com/57630921-anagha" target="_blank" title="Goodreads">
+<i class="fab fa-goodreads fa-2x"></i>
+</a>
