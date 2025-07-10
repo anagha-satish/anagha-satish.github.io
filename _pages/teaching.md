@@ -15,7 +15,7 @@ nav_order: 5
 
 **TA, Networks: Algorithms and Architecture (Caltech CS143), Fall 2024**
 
-- Graduate-level course covering topics in optimization, network architecture, online algorithms, and scheduling taught by Adam Wierman
+- Graduate-level course covering topics in optimization, network architecture, and online algorithms taught by Adam Wierman
 - Assisted with the first iteration of the course and helped develop problem sets and solutions
 - Held weekly office hours and graded assignments
 - Developed and presented intro lecture on game theory
