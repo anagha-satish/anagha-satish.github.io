@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science PhD, <a href='https://seas.harvard.edu/'>Harvard University</a>
+subtitle: Computer Science PhD, <a href='https://www.harvard.edu'>Harvard University</a>
 
 profile:
   align: right
