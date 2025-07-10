@@ -1,4 +1,5 @@
 ---
+redirect_to: /assets/pdf/AnaghaSatish_CV.pdf
 layout: cv
 permalink: /cv/
 title: cv
