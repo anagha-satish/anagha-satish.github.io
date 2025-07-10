@@ -33,7 +33,10 @@ Previously, I studied at Caltech, where I obtained my bachelor's degree in Compu
 
 Follow me!
 <a href="https://scholar.google.com/citations?user=KGHel6FK3fkC&hl=en&oi=ao" target="_blank" title="Google Scholar">
-  <i class="ai ai-google-scholar ai-lg"></i>
+<i class="ai ai-google-scholar ai-lg"></i>
+</a>
+<a href="https://github.com/anagha-satish" target="_blank" title="GitHub">
+<i class="fab fa-github fa-lg"></i>
 </a>
 <a href="https://www.linkedin.com/in/anaghasatish548" target="_blank" title="LinkedIn">
 <i class="fab fa-linkedin fa-lg"></i>
