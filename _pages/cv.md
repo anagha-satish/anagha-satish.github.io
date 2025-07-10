@@ -1,7 +1,6 @@
 ---
-redirect_to: /assets/pdf/AnaghaSatish_CV.pdf
 layout: cv
-permalink: /cv/
+permalink: /assets/pdf/AnaghaSatish_CV.pdf
 title: cv
 nav: true
 nav_order: 6
