@@ -32,8 +32,8 @@ I am a first-year PhD student in Computer Science, where I am fortunate to be ad
 Previously, I studied at Caltech, where I obtained my bachelor's degree in Computer Science with a minor in Information and Data Science. At Caltech, I was fortunate to work on projects with Prof. [Adam Wierman](https://adamwierman.com/) and Prof. [Franca Hoffmann](https://francahoffmann.com/). I also spent a wonderful summer at NASA JPL's [Machine Learning and Instrument Autonomy group](https://ml.jpl.nasa.gov/).
 
 Follow me!
-<a href="https://github.com/anagha-satish" target="_blank" title="GitHub">
-<i class="fab fa-github fa-lg"></i>
+<a href="https://scholar.google.com/citations?user=KGHel6FK3fkC&hl=en&oi=ao" target="_blank" title="Google Scholar">
+  <i class="ai ai-google-scholar ai-lg"></i>
 </a>
 <a href="https://www.linkedin.com/in/anaghasatish548" target="_blank" title="LinkedIn">
 <i class="fab fa-linkedin fa-lg"></i>
