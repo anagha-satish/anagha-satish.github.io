@@ -33,11 +33,11 @@ Previously, I studied at Caltech, where I obtained my bachelor's degree in Compu
 
 Follow me!
 <a href="https://github.com/anagha-satish" target="_blank" title="GitHub">
-<i class="fab fa-github fa-2x"></i>
+<i class="fab fa-github fa-lg"></i>
 </a>
 <a href="https://www.linkedin.com/in/anaghasatish548" target="_blank" title="LinkedIn">
-<i class="fab fa-linkedin fa-2x"></i>
+<i class="fab fa-linkedin fa-lg"></i>
 </a>
 <a href="https://www.goodreads.com/57630921-anagha" target="_blank" title="Goodreads">
-<i class="fab fa-goodreads fa-2x"></i>
+<i class="fab fa-goodreads fa-lg"></i>
 </a>
