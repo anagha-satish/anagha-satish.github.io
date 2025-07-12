@@ -8,6 +8,6 @@ related_posts: false
 
 Summer 2024, I was awarded the Kirk and Marjorie Dawson Family SURF Fellowship to work under Prof. Franca Hoffmann at Caltech. During this summer, we developed an optimization method incorporating Consensus Based Optimization and traditional gradient-based methods. I had the chance to present our work at the 2024 NeurIPS Optimization for ML workshop!
 
-![Presenting at OptML!](../assets/img/optml.jpeg)
+![Presenting at OptML!](/assets/img/optml.png)
 
 In an effort to practice explaining my research, I wanted to explain the big picture of this work. Coming soon!
