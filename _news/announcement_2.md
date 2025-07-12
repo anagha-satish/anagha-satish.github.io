@@ -12,4 +12,6 @@ Summer 2024, I was awarded the Kirk and Marjorie Dawson Family SURF Fellowship t
   <img src="/assets/img/optml.png" alt="Presenting at OptML!" style="width: 400px;" />
 </div>
 
+---
+
 In an effort to practice explaining my research, I wanted to explain the big picture of this work. Coming soon!
