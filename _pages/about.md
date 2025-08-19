@@ -29,7 +29,7 @@ latest_posts:
 
 I am a first-year PhD student in Computer Science, where I am fortunate to be advised by Professor [Milind Tambe](https://teamcore.seas.harvard.edu/tambe/) in the [EconCS group](https://econcs.seas.harvard.edu/).
 
-Previously, I studied at Caltech, where I obtained my bachelor's degree in Computer Science with a minor in Information and Data Science. At Caltech, I had the privilege of working with with Prof. [Adam Wierman](https://adamwierman.com/) and Prof. [Franca Hoffmann](https://francahoffmann.com/). I also spent a wonderful summer at NASA JPL's [Machine Learning and Instrument Autonomy group](https://ml.jpl.nasa.gov/).
+Previously, I studied at Caltech, where I obtained my bachelor's degree in Computer Science with a minor in Information and Data Science. At Caltech, I had the privilege of working with Prof. [Adam Wierman](https://adamwierman.com/) and Prof. [Franca Hoffmann](https://francahoffmann.com/). I also spent a wonderful summer at NASA JPL's [Machine Learning and Instrument Autonomy group](https://ml.jpl.nasa.gov/).
 
 Follow me!
 <a href="https://scholar.google.com/citations?user=KGHel6FK3fkC&hl=en&oi=ao" target="_blank" title="Google Scholar">
